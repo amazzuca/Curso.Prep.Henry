@@ -1,0 +1,5 @@
+las variables son lugares en donde podes guardar valores, estos valores pueden ser numeros, palabras y otros objetos
+Strings son cadenas de letras u oraciones o numeros en formato texto
+Las funciones sirven para no repetir codigo, ejecutan un bloque de comandos por separado dentro del flujo del programa
+Las declaraciones sirven para determinar logicas, por ejemplo si pasa una cosa hago tal cosa.
+Los valore booleanos sirven equivalen a verdadero o falso. Por ejemplo si una igualdad es verdadera hago tal cosa si es falsa hago otra.

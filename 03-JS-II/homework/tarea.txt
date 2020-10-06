@@ -1,0 +1,3 @@
+el comando for sirve para recorrer una serie de elementos, puede ser letra por letra de una palabra. Tiene un inicio, un final y un incremento.
+&&, ||, ! significa y, o y Negacion. Sirve para comparar dos elementos u objetos.
+
