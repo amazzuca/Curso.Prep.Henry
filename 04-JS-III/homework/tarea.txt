@@ -1,0 +1,1 @@
+los arrays son objetos en donde se depositan diferentes elementos, que pueden ser numeros, cadenas o strings, funciones, otras listas etc. Se pueden recorrer con for y while y manipular con push y pop
