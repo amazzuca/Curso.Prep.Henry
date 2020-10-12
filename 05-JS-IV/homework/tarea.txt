@@ -1,0 +1,5 @@
+objetos son elementos que pueden tener atributos o metodos, es decir que se le pueden adosar caracteristicas para darles funcionalidades.
+Las propiedades se le agregan a los objetos para distinguirlos
+Los metodos son funciones que se le agregan a los objetos para poder transformarlos o ejecutar acciones sobre ellos
+Un bucle es iterar sobre cada componente del objeto para realizar acciones por cada uno de ellos.
+La notacion de puntos vs la notacion de corchetes es para describir los atributos o propiedades del objeto. Vamos a utilizar la notacion de puntos.
