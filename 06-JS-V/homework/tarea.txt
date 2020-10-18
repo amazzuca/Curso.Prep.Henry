@@ -1,0 +1,2 @@
+prototype son los metodos o atributos que posee el objeto maestro del cual voy a generar una instancia.
+Contructors de clase sirven para inicializar la instancia al momento de crearla
