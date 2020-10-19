@@ -1,0 +1,1 @@
+Las funciones callback son funciones que se llaman como argumentos de otra funcion, y cuando se ejecuta la funcion madre hace que se ejecute la funcion argumento tomando los otros argumentos como argumentos.
