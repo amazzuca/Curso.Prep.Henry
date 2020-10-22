@@ -13,5 +13,17 @@ border: 53px solid grey;
 }
 #spanId {
 font-size : 18px;
-margin : 50px
+margin : 50px:
+text-align: center;
+}
+div{
+margin: auto;
+text-align: center;
+}
+
+body {
+ background-image: url("https://i.pinimg.com/originals/c0/2e/23/c02e2331f7676a14d3ed879faaaa2ba3.png");
+ background-repeat: no-repeat;
+ background-size: auto;
+ background-position: center;
 }
